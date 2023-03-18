@@ -1,0 +1,57 @@
+body{
+    background-image: url("gdsc_bg_image.png");
+    background-size: 20px;
+    
+}
+body{
+    background-color: gray;
+}
+.header{
+    text-align: center;
+
+}
+
+.name{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    padding-top: 4%;
+}
+.last_name{
+    padding-left: 1%;
+
+}
+.Phone_Number{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+
+}
+.Email{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    
+}
+
+.college{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    
+}
+
+.branch{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    
+}
+
+.member{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    
+}
+
+.address{
+    padding-left: 1%;
+    padding-bottom: 2%;
+    
+}
